@@ -10,6 +10,7 @@ It features expressive animated characters on the left and a redesigned modern l
 ## Demo Video
 
 - Local demo file: [`demo.mp4`]
+- <img width="1666" height="839" alt="image" src="https://github.com/user-attachments/assets/a2d1b046-89fc-4236-b343-bf5cd46343d6" />
 - https://github.com/user-attachments/assets/a25e72f2-a48d-465f-98ae-3909719e4a0a
 - GitHub usually supports inline preview for MP4. If it does not render in your page context, click the file link to view or download.
 
