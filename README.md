@@ -9,8 +9,8 @@ It features expressive animated characters on the left and a redesigned modern l
 
 ## Demo Video
 
-- Local demo file: [`demo.mov`](./demo.mov)
-- If GitHub does not preview it inline, click the file link to view or download
+- Local demo file: [`demo.mp4`](./demo.mp4)
+- GitHub usually supports inline preview for MP4. If it does not render in your page context, click the file link to view or download.
 
 ## Features
 
@@ -84,8 +84,8 @@ See [`LICENSE`](./LICENSE) and [`COPYRIGHT.md`](./COPYRIGHT.md).
 
 ## 演示视频
 
-- 本地视频文件：[`demo.mov`](./demo.mov)
-- 如果 GitHub 页面无法内嵌播放，请点击链接在线查看或下载
+- 本地视频文件：[`demo.mp4`](./demo.mp4)
+- GitHub 通常可直接预览 MP4；若当前页面未内嵌显示，请点击链接在线查看或下载。
 
 ## 功能概览
 
